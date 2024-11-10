@@ -10,6 +10,8 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "@vimeo/player": "^2.24.0",
+    "lodash.throttle": "^4.1.1",
     "simplelightbox": "^2.14.3"
   }
 }
