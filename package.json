@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
+    "start": "parcel 01-gallery.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -13,5 +14,9 @@
     "@vimeo/player": "^2.24.0",
     "lodash.throttle": "^4.1.1",
     "simplelightbox": "^2.14.3"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1",
+    "parcel": "^2.12.0"
   }
 }
